@@ -1,0 +1,576 @@
+{
+  "English": [
+    {
+      "feature": "l",
+      "importance": -4.67802979892704
+    },
+    {
+      "feature": "is",
+      "importance": -4.635888183162081
+    },
+    {
+      "feature": "w",
+      "importance": -4.626778590932588
+    },
+    {
+      "feature": "y",
+      "importance": -4.4205582614349535
+    },
+    {
+      "feature": "e ",
+      "importance": -4.38163233239794
+    },
+    {
+      "feature": "s ",
+      "importance": -4.36677515790455
+    },
+    {
+      "feature": "n",
+      "importance": -4.357248766110676
+    },
+    {
+      "feature": " i",
+      "importance": -4.342295623131987
+    },
+    {
+      "feature": "r",
+      "importance": -4.321946643614311
+    },
+    {
+      "feature": " t",
+      "importance": -4.263353018160185
+    },
+    {
+      "feature": "th",
+      "importance": -4.233949007892377
+    },
+    {
+      "feature": "he",
+      "importance": -4.197175290841315
+    },
+    {
+      "feature": "h",
+      "importance": -4.157207889487127
+    },
+    {
+      "feature": "a",
+      "importance": -4.128964439144057
+    },
+    {
+      "feature": "s",
+      "importance": -4.100346246097709
+    },
+    {
+      "feature": "i",
+      "importance": -4.040493757666198
+    },
+    {
+      "feature": "t",
+      "importance": -3.9934947686999194
+    },
+    {
+      "feature": "o",
+      "importance": -3.8691718745305153
+    },
+    {
+      "feature": "e",
+      "importance": -3.6042578681245994
+    },
+    {
+      "feature": " ",
+      "importance": -2.6346958653739208
+    }
+  ],
+  "French": [
+    {
+      "feature": "v",
+      "importance": -4.679321349628282
+    },
+    {
+      "feature": "ou",
+      "importance": -4.677979270027002
+    },
+    {
+      "feature": " e",
+      "importance": -4.6561542302833585
+    },
+    {
+      "feature": "le",
+      "importance": -4.580517661366239
+    },
+    {
+      "feature": "é",
+      "importance": -4.568742981556482
+    },
+    {
+      "feature": "n",
+      "importance": -4.516237366203942
+    },
+    {
+      "feature": "p",
+      "importance": -4.503035406844634
+    },
+    {
+      "feature": "es",
+      "importance": -4.406357005009538
+    },
+    {
+      "feature": " l",
+      "importance": -4.396097443729632
+    },
+    {
+      "feature": "i",
+      "importance": -4.36201823807861
+    },
+    {
+      "feature": "t",
+      "importance": -4.243630422031395
+    },
+    {
+      "feature": "u",
+      "importance": -4.18898683021291
+    },
+    {
+      "feature": "o",
+      "importance": -4.180039149495109
+    },
+    {
+      "feature": "e ",
+      "importance": -4.14482983240047
+    },
+    {
+      "feature": "r",
+      "importance": -4.09571256369486
+    },
+    {
+      "feature": "a",
+      "importance": -4.0670442923337715
+    },
+    {
+      "feature": "s",
+      "importance": -4.002600381743982
+    },
+    {
+      "feature": "l",
+      "importance": -3.9883101586740097
+    },
+    {
+      "feature": "e",
+      "importance": -3.356620962971244
+    },
+    {
+      "feature": " ",
+      "importance": -2.7876812214663667
+    }
+  ],
+  "German": [
+    {
+      "feature": ".",
+      "importance": -4.5670319135188775
+    },
+    {
+      "feature": "l",
+      "importance": -4.549718849582797
+    },
+    {
+      "feature": "ie",
+      "importance": -4.5389762681836014
+    },
+    {
+      "feature": "u",
+      "importance": -4.521204402007814
+    },
+    {
+      "feature": "t ",
+      "importance": -4.518869682505465
+    },
+    {
+      "feature": " i",
+      "importance": -4.417777220703439
+    },
+    {
+      "feature": "c",
+      "importance": -4.39485021078216
+    },
+    {
+      "feature": "a",
+      "importance": -4.348529360410353
+    },
+    {
+      "feature": "er",
+      "importance": -4.301795874467641
+    },
+    {
+      "feature": " d",
+      "importance": -4.267000384559135
+    },
+    {
+      "feature": "d",
+      "importance": -4.240277661187047
+    },
+    {
+      "feature": "h",
+      "importance": -4.238917643793844
+    },
+    {
+      "feature": "ch",
+      "importance": -4.192107541405922
+    },
+    {
+      "feature": "n",
+      "importance": -4.14849956545935
+    },
+    {
+      "feature": "r",
+      "importance": -4.131351369619521
+    },
+    {
+      "feature": "t",
+      "importance": -4.013526336709402
+    },
+    {
+      "feature": "s",
+      "importance": -3.899157168091342
+    },
+    {
+      "feature": "i",
+      "importance": -3.803557788646847
+    },
+    {
+      "feature": "e",
+      "importance": -3.4349894567543697
+    },
+    {
+      "feature": " ",
+      "importance": -2.729942399210843
+    }
+  ],
+  "Japanese": [
+    {
+      "feature": "？ ",
+      "importance": -4.6492831143893305
+    },
+    {
+      "feature": "か？",
+      "importance": -4.6492831143893305
+    },
+    {
+      "feature": "？",
+      "importance": -4.6492831143893305
+    },
+    {
+      "feature": "いま",
+      "importance": -4.4851079812984995
+    },
+    {
+      "feature": "し",
+      "importance": -4.438946628824225
+    },
+    {
+      "feature": "てい",
+      "importance": -4.41674687621084
+    },
+    {
+      "feature": "か",
+      "importance": -4.340157578373675
+    },
+    {
+      "feature": "は",
+      "importance": -4.324995439512216
+    },
+    {
+      "feature": "て",
+      "importance": -4.2988932992716835
+    },
+    {
+      "feature": "です",
+      "importance": -4.0456801485617495
+    },
+    {
+      "feature": "ます",
+      "importance": -4.029269243521399
+    },
+    {
+      "feature": "で",
+      "importance": -3.9525148950936893
+    },
+    {
+      "feature": "い",
+      "importance": -3.8745040224465757
+    },
+    {
+      "feature": "ま",
+      "importance": -3.850058835268168
+    },
+    {
+      "feature": " ",
+      "importance": -3.8289598597529815
+    },
+    {
+      "feature": "が",
+      "importance": -3.820596042882486
+    },
+    {
+      "feature": "す。",
+      "importance": -3.7054252499100278
+    },
+    {
+      "feature": "。 ",
+      "importance": -3.6541969295783194
+    },
+    {
+      "feature": "。",
+      "importance": -3.6309588658866114
+    },
+    {
+      "feature": "す",
+      "importance": -3.497196753000288
+    }
+  ],
+  "Korean": [
+    {
+      "feature": "를 ",
+      "importance": -4.965096310207629
+    },
+    {
+      "feature": "를",
+      "importance": -4.965096310207629
+    },
+    {
+      "feature": "로",
+      "importance": -4.916356527578082
+    },
+    {
+      "feature": "하",
+      "importance": -4.890677002853424
+    },
+    {
+      "feature": "이 ",
+      "importance": -4.868367241685451
+    },
+    {
+      "feature": "습",
+      "importance": -4.858705482367351
+    },
+    {
+      "feature": "있",
+      "importance": -4.853022513110045
+    },
+    {
+      "feature": "고",
+      "importance": -4.7985035373632865
+    },
+    {
+      "feature": "을",
+      "importance": -4.7508037554534654
+    },
+    {
+      "feature": "을 ",
+      "importance": -4.7508037554534654
+    },
+    {
+      "feature": "에",
+      "importance": -4.744214088516812
+    },
+    {
+      "feature": "나",
+      "importance": -4.697667377438671
+    },
+    {
+      "feature": "니다",
+      "importance": -4.59638305308359
+    },
+    {
+      "feature": "니",
+      "importance": -4.591883406455844
+    },
+    {
+      "feature": "는 ",
+      "importance": -4.547267726686097
+    },
+    {
+      "feature": "는",
+      "importance": -4.4844507029889895
+    },
+    {
+      "feature": "이",
+      "importance": -4.315781328443174
+    },
+    {
+      "feature": "다.",
+      "importance": -4.10535563996901
+    },
+    {
+      "feature": "다",
+      "importance": -4.035593640772126
+    },
+    {
+      "feature": " ",
+      "importance": -2.9200236816605933
+    }
+  ],
+  "Spanish": [
+    {
+      "feature": "d",
+      "importance": -4.820272511041969
+    },
+    {
+      "feature": "en",
+      "importance": -4.754716601505964
+    },
+    {
+      "feature": "es",
+      "importance": -4.663886807545176
+    },
+    {
+      "feature": "i",
+      "importance": -4.635172341907941
+    },
+    {
+      "feature": "t",
+      "importance": -4.627679977033735
+    },
+    {
+      "feature": "u",
+      "importance": -4.606744563869767
+    },
+    {
+      "feature": "c",
+      "importance": -4.595376303776721
+    },
+    {
+      "feature": "p",
+      "importance": -4.563421286046816
+    },
+    {
+      "feature": "o ",
+      "importance": -4.551250344780428
+    },
+    {
+      "feature": "l",
+      "importance": -4.550169802445037
+    },
+    {
+      "feature": " e",
+      "importance": -4.501395969959424
+    },
+    {
+      "feature": "m",
+      "importance": -4.474247158075519
+    },
+    {
+      "feature": "s",
+      "importance": -4.3257030215700185
+    },
+    {
+      "feature": "n",
+      "importance": -4.249623062510522
+    },
+    {
+      "feature": "a ",
+      "importance": -4.233477915333568
+    },
+    {
+      "feature": "r",
+      "importance": -4.119857351759447
+    },
+    {
+      "feature": "o",
+      "importance": -3.886437493596317
+    },
+    {
+      "feature": "a",
+      "importance": -3.675480937986616
+    },
+    {
+      "feature": "e",
+      "importance": -3.674116949724266
+    },
+    {
+      "feature": " ",
+      "importance": -2.968297362773039
+    }
+  ],
+  "Vietnamese": [
+    {
+      "feature": ". ",
+      "importance": -4.8207472587060005
+    },
+    {
+      "feature": ".",
+      "importance": -4.819079520377792
+    },
+    {
+      "feature": "à",
+      "importance": -4.761756746679663
+    },
+    {
+      "feature": "n ",
+      "importance": -4.671057448728731
+    },
+    {
+      "feature": " n",
+      "importance": -4.65752760000753
+    },
+    {
+      "feature": "g ",
+      "importance": -4.626681536074745
+    },
+    {
+      "feature": "i",
+      "importance": -4.623975849847041
+    },
+    {
+      "feature": " c",
+      "importance": -4.5883054021043375
+    },
+    {
+      "feature": "i ",
+      "importance": -4.508789459953759
+    },
+    {
+      "feature": "c",
+      "importance": -4.507022112825379
+    },
+    {
+      "feature": "ô",
+      "importance": -4.499984934555993
+    },
+    {
+      "feature": "t",
+      "importance": -4.379318397900848
+    },
+    {
+      "feature": "ng",
+      "importance": -4.32102024303137
+    },
+    {
+      "feature": "g",
+      "importance": -4.2692056289007905
+    },
+    {
+      "feature": " t",
+      "importance": -4.262178827601852
+    },
+    {
+      "feature": "h",
+      "importance": -4.227450163210742
+    },
+    {
+      "feature": " đ",
+      "importance": -4.18455614983707
+    },
+    {
+      "feature": "đ",
+      "importance": -4.18455614983707
+    },
+    {
+      "feature": "n",
+      "importance": -3.9097209628580853
+    },
+    {
+      "feature": " ",
+      "importance": -2.6526354471394256
+    }
+  ]
+}

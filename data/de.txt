@@ -1,0 +1,194 @@
+Das Wetter ist heute wunderschön.
+Ich liebe Programmierung und maschinelles Lernen.
+Um wie viel Uhr ist das Meeting morgen?
+Können Sie mir bei diesem Problem helfen?
+Das neue Restaurant hat ausgezeichnetes Essen.
+Ich lerne Python-Programmierung.
+Der Film war wirklich interessant.
+Wie war dein Wochenende?
+Ich muss dieses Projekt bald abschließen.
+Das Buch liegt auf dem Tisch.
+Am Samstagmorgen wachte ich früh auf, weil ich ein wichtiges Meeting mit meinem Chef hatte. Nachdem ich aufgestanden war, machte ich mir einen Kaffee und aß ein kleines Frühstück. Während des Frühstücks dachte ich nach, wie ich das Projekt verbessern könnte, an dem wir seit Wochen arbeiten. Es war ein anspruchsvolles Projekt, aber ich war zuversichtlich, dass wir es erfolgreich abschließen würden.
+Am Montagmorgen war ich früh aufgestanden, weil ich ein wichtiges Meeting mit meinem Chef hatte. Nachdem ich aufgestanden war, machte ich mir einen Kaffee und aß ein kleines Frühstück. Während des Frühstücks dachte ich nach, wie ich das Projekt verbessern könnte, an dem wir seit Wochen arbeiten. Es war ein anspruchsvolles Projekt, aber ich war zuversichtlich, dass wir es erfolgreich abschließen würden.
+Ich zog mich an und fuhr mit dem Auto zur Arbeit. Auf dem Weg zur Arbeit hörte ich Musik, um mich zu entspannen. Als ich im Büro ankam, begrüßte mich mein Kollege Tom, der bereits am Computer arbeitete. Wir besprachen die letzten Details des Projekts und machten uns dann daran, die Aufgaben zu verteilen. Ich erklärte ihm, wie er den Bericht fertigstellen sollte, und gab ihm einige Hinweise. Während der Arbeit unterhielten wir uns über verschiedene Themen, darunter auch unsere Hobbys und Urlaubserlebnisse.
+Nachdem wir den Bericht abgeschlossen hatten, machten wir eine kurze Pause und tranken einen Tee. Wir beschlossen, später ein weiteres Meeting zu organisieren, um die nächsten Schritte zu besprechen.
+Am Mittwochabend war ich müde und ging ins Bett. Ich las ein Buch und schlief um 10 Uhr. Am Donnerstag früh war ich wieder früh aufgestanden, weil ich ein wichtiges Meeting mit meinem Chef hatte. Nachdem ich aufgestanden war, machte ich mir einen Kaffee und aß ein kleines Frühstück. Während des Frühstücks dachte ich nach, wie ich das Projekt verbessern könnte, an dem wir seit Wochen arbeiten. Es war ein anspruchsvolles Projekt, aber ich war zuversichtlich, dass wir es erfolgreich abschließen würden.
+Am Freitagabend ging ich mit meinen Freunden ins Kino. Wir sahen einen neuen Actionfilm, der sehr spannend war. Nachdem wir das Kino verlassen hatten, gingen wir in ein Restaurant und tranken ein Glas Wein. Wir beschlossen, am nächsten Wochenende ein weiteres Kino zu besuchen.
+Ich spreche drei Sprachen fließend.
+Das Konzert beginnt um 20 Uhr.
+Ich freue mich auf die Ferien.
+Der Computer muss repariert werden.
+Was ist deine Lieblingsfarbe?
+Der Zug kommt in 10 Minuten.
+Ich lese gerne Science-Fiction-Bücher.
+Der Garten muss bewässert werden.
+Kannst du mir bitte das Salz reichen?
+Der Wetterbericht sagt Regen voraus.
+Ich gehe später ins Fitnessstudio.
+Die Präsentation war sehr erfolgreich.
+Wie ist deine Telefonnummer?
+Der Kaffee ist zu heiß.
+Ich muss Lebensmittel einkaufen.
+Das Kino ist voll.
+Wie buchstabiert man deinen Namen?
+Das Museum ist montags geschlossen.
+Ich lerne für die Prüfung.
+Das Restaurant ist ausgebucht.
+Was ist die Hauptstadt von Frankreich?
+Der Verkehr ist heute stark.
+Ich lerne Gitarre spielen.
+Die Bibliothek hat viele Bücher.
+Kannst du bitte langsamer sprechen?
+Es wird kälter.
+Ich werde meine Familie besuchen.
+Das Meeting beginnt in 5 Minuten.
+Was ist dein Lieblingsfilm?
+Der Computer läuft langsam.
+Ich muss telefonieren.
+Der Park ist im Frühling schön.
+Wie lange dauert der Film?
+Das Restaurant serviert gutes Essen.
+Ich suche meine Schlüssel.
+Der Zug hat Verspätung.
+Wie ist deine E-Mail-Adresse?
+Das Wetter ist heute perfekt.
+Ich fahre ans Meer.
+Das Buch ist sehr interessant.
+Die Katze schläft auf dem Sofa.
+Ich trinke gerne grünen Tee.
+Der Supermarkt öffnet um 8 Uhr.
+Mein Auto ist in der Werkstatt.
+Die Blumen im Garten blühen.
+Wir haben nächste Woche Urlaub.
+Das Haus braucht einen neuen Anstrich.
+Die Kinder spielen im Garten.
+Der Kuchen schmeckt sehr gut.
+Ich habe heute viel zu tun.
+Die Sonne scheint hell.
+Der Bus ist pünktlich.
+Wir treffen uns um 14 Uhr.
+Das Fenster ist offen.
+Die Musik ist zu laut.
+Ich brauche neue Schuhe.
+Der Himmel ist blau.
+Das Essen ist fertig.
+Die Party war großartig.
+Ich habe Kopfschmerzen.
+Der Drucker funktioniert nicht.
+Die Rechnung bitte.
+Das Paket kommt morgen an.
+Ich mag italienisches Essen.
+Die Straße ist gesperrt.
+Der Hund bellt laut.
+Das Telefon klingelt.
+Ich bin müde von der Arbeit.
+Die Tür ist verschlossen.
+Das Radio spielt gute Musik.
+Ich brauche einen Regenschirm.
+Der Wind ist stark heute.
+Das Geschäft schließt um 20 Uhr.
+Die Ampel ist rot.
+Ich habe einen Termin beim Arzt.
+Das Wasser ist kalt.
+Die Zeitung kommt jeden Morgen.
+Ich spreche gerne Deutsch.
+Der Aufzug ist kaputt.
+Das Mittagessen war lecker.
+Die Uhr geht nach.
+Ich liebe Schokolade.
+Der Schlüssel ist verloren.
+Das Licht ist aus.
+Die Post ist da.
+Ich brauche Hilfe.
+Der Stau ist lang.
+Das Bett ist gemacht.
+Die Suppe ist heiß.
+Ich habe Hunger.
+Der Fernseher ist neu.
+Das Handy ist ausgeschaltet.
+Die Rechnung ist bezahlt.
+Ich gehe spazieren.
+Der Kühlschrank ist leer.
+Das Geschenk ist verpackt.
+Die Heizung läuft.
+Ich bin erkältet.
+Der Termin ist bestätigt.
+Das Zimmer ist aufgeräumt.
+Die Batterie ist leer.
+Ich warte auf den Bus.
+Der Kaffee ist fertig.
+Das Fenster ist zu.
+Die Wäsche ist gewaschen.
+Ich bin beschäftigt.
+Der Computer startet nicht.
+Das Eis schmilzt.
+Die Tasse ist voll.
+Ich bin glücklich.
+Der Regen hört auf.
+Das Brot ist frisch.
+Die Sonne geht unter.
+Ich bin nervös.
+Der Zug ist voll.
+Das Wetter ändert sich.
+Die Blumen sind schön.
+Ich bin spät dran.
+Der Film fängt an.
+Das Telefon ist stumm.
+Die Party beginnt.
+Ich bin bereit.
+Der Schnee fällt.
+Das Auto ist sauber.
+Die Zeit vergeht schnell.
+Ich bin hungrig.
+Der Mond scheint hell.
+Das Haus ist groß.
+Die Musik spielt.
+Ich bin müde.
+Der Tag ist lang.
+Das Leben ist schön.
+Die Nacht ist still.
+Ich bin zufrieden.
+Der Sommer ist heiß.
+Das Meer ist blau.
+Die Luft ist frisch.
+Ich bin optimistisch.
+Der Winter ist kalt.
+Das Gras ist grün.
+Die Stadt ist laut.
+Ich bin kreativ.
+Der Himmel ist grau.
+Das Wasser ist klar.
+Die Straße ist lang.
+Ich bin produktiv.
+Der Baum ist hoch.
+Das Kind lacht.
+Die Sonne scheint.
+Ich bin motiviert.
+Der Vogel singt.
+Das Lied ist schön.
+Die Blume blüht.
+Ich bin konzentriert.
+Der Wald ist dunkel.
+Das Feuer brennt.
+Die Wolken ziehen.
+Ich bin entspannt.
+Der Berg ist steil.
+Das Tal ist tief.
+Die Welle ist groß.
+Ich bin vorbereitet.
+Der Fluss fließt.
+Das Boot schwimmt.
+Die Brücke ist lang.
+Ich bin organisiert.
+Der Wind weht.
+Das Blatt fällt.
+Die Tür öffnet sich.
+Ich bin fokussiert.
+Der Stern leuchtet.
+Das Herz schlägt.
+Die Uhr tickt.
+Ich bin aktiv.
+Der Weg ist weit.
+Das Ziel ist nah.
+Die Zeit läuft.
+Ich bin positiv.

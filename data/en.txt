@@ -1,0 +1,155 @@
+The weather is beautiful today.
+I love programming and machine learning.
+What time is the meeting tomorrow?
+Can you help me with this problem?
+The new restaurant has excellent food.
+I'm learning Python programming.
+The movie was really interesting.
+How was your weekend?
+I need to finish this project soon.
+The book is on the table.
+She speaks three languages fluently.
+The concert starts at 8 PM.
+I'm looking forward to the holidays.
+The computer needs to be repaired.
+What's your favorite color?
+The train arrives in 10 minutes.
+I enjoy reading science fiction.
+The garden needs watering.
+Can you pass me the salt?
+The weather forecast predicts rain.
+I'm going to the gym later.
+The presentation was successful.
+What's your phone number?
+The coffee is too hot.
+I need to buy groceries.
+The movie theater is crowded.
+How do you spell your name?
+The museum is closed on Mondays.
+I'm studying for my exam.
+The restaurant is fully booked.
+What's the capital of France?
+The traffic is heavy today.
+I'm learning to play guitar.
+The library has many books.
+Can you speak more slowly?
+The weather is getting colder.
+I'm going to visit my family.
+The meeting starts in 5 minutes.
+What's your favorite movie?
+The computer is running slowly.
+I need to make a phone call.
+The park is beautiful in spring.
+How long is the movie?
+The restaurant serves good food.
+I'm looking for my keys.
+The train is delayed.
+What's your email address?
+The weather is perfect today.
+I'm going to the beach.
+The book is very interesting.
+Last weekend, I visited a newly opened restaurant near my home with some of my friends. The weather was absolutely delightful – it was bright and sunny, making it the perfect day to enjoy a meal outdoors. We had a fantastic time, and the cuisine was simply exquisite. I opted for a pasta dish, which was rich in flavor and wonderfully prepared. My companions also sampled some traditional dishes, and they were blown away by the flavors and the meticulous presentation. After our meal, we decided to take a leisurely stroll through a nearby park. The air was crisp, and the flowers were in full bloom, creating a serene atmosphere. As we wandered through the park, we chatted about our upcoming projects and how we could enhance our productivity. One of my friends, who is fluent in three languages, suggested that we start learning a new language together. I thought it was an excellent idea, so I immediately agreed to join him. Later, we went to the theater to catch a newly released film, which turned out to be extremely engaging and thought-provoking. We spent the rest of the evening discussing the storyline, the impressive special effects, and the actors' performances. It was an entertaining and fulfilling day. The following day, I dedicated some time at home to prepare for an important meeting scheduled for the afternoon. I had to finalize my presentation, and the pressure was mounting. Fortunately, I managed to wrap it up just in time. The meeting went smoothly, and we successfully covered crucial points regarding the project. Overall, it was a productive and enjoyable weekend.
+Have you eaten lunch yet?
+The sky is so blue today.
+I need to buy new shoes.
+Where is the nearest bank?
+The music is too loud.
+Can you help me find my way?
+The flowers are blooming.
+What time do you wake up?
+I love chocolate ice cream.
+The internet is very slow.
+She's a talented musician.
+The party starts at nine.
+Do you speak English?
+The water is very cold.
+I lost my wallet yesterday.
+The birds are singing.
+What's your favorite food?
+The sun is setting now.
+I need a new computer.
+The baby is sleeping.
+Where did you park your car?
+The cake tastes delicious.
+I'm feeling tired today.
+The window is broken.
+What's the weather like?
+The door is locked.
+I forgot my password.
+The grass needs cutting.
+Can you repeat that please?
+The phone is ringing.
+I'm running late today.
+The food is still hot.
+What's your address?
+The cat is sleeping.
+I need some fresh air.
+The room is too dark.
+Where are you from?
+The milk is expired.
+I have a headache.
+The floor is wet.
+What day is it today?
+The battery is low.
+I'm learning to cook.
+The stairs are steep.
+Can you drive me home?
+The movie starts soon.
+I need a vacation.
+The light is bright.
+What's your name?
+The door is open.
+I'm feeling hungry.
+The car won't start.
+How old are you?
+The wind is strong.
+I need some help.
+The soup is hot.
+What time is it?
+The bed is made.
+I'm going shopping.
+The rain has stopped.
+Can you wait here?
+The bus is coming.
+I need a drink.
+The house is clean.
+What's happening?
+The dog is barking.
+I'm feeling sick.
+The tea is ready.
+How are you today?
+The snow is falling.
+I need some sleep.
+The fire is warm.
+What's that noise?
+The chair is broken.
+I'm going home.
+The moon is bright.
+Can you see that?
+The water is boiling.
+I need a break.
+The air is fresh.
+What's your job?
+The road is busy.
+I'm feeling happy.
+The glass is full.
+How was your day?
+The night is quiet.
+I need some money.
+The wall is white.
+What's for dinner?
+The clock is ticking.
+I'm going out.
+The sky is dark.
+Can you help me?
+The paper is blank.
+I need a pen.
+The tree is tall.
+What's wrong?
+The door is closed.
+I'm staying here.
+The sun is bright.
+How much is this?
+The room is hot.
+I need some rest.
+The floor is clean.

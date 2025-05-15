@@ -1,0 +1,34 @@
+{
+  "vi": {
+    "predict": "Nhận Diện Ngôn Ngữ",
+    "clear": "Xóa",
+    "features": "Xem Từ Đặc Trưng",
+    "report": "Xem Báo Cáo",
+    "prob_chart": "Xem Biểu Đồ Xác Suất",
+    "file": "Nhận Diện Từ File",
+    "batch": "Batch",
+    "add_data": "Thêm Dữ Liệu Huấn Luyện",
+    "retrain": "Huấn Luyện Lại Mô Hình",
+    "history": "Xem Lịch Sử",
+    "export_pdf": "Xuất Báo Cáo PDF",
+    "dark_mode": "Chế Độ Tối",
+    "light_mode": "Chế Độ Sáng",
+    "interface": "Giao diện"
+  },
+  "en": {
+    "predict": "Detect Language",
+    "clear": "Clear",
+    "features": "Show Features",
+    "report": "Show Report",
+    "prob_chart": "Show Probability Chart",
+    "file": "Detect From File",
+    "batch": "Batch",
+    "add_data": "Add Training Data",
+    "retrain": "Retrain Model",
+    "history": "Show History",
+    "export_pdf": "Export Report PDF",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "interface": "Interface"
+  }
+}
