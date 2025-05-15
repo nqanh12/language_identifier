@@ -27,7 +27,7 @@ A machine learning-based system that can detect 7 different languages:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/language_identifier.git
+git clone https://github.com/nqanh12/language_identifier.git
 cd language_identifier
 ```
 
