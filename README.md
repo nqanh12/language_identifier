@@ -73,4 +73,4 @@ python train_model.py
 MIT License
 
 ## Author
-[Your Name] 
+Nguyễn Quốc Anh
